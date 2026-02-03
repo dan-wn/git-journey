@@ -1,2 +1,2 @@
-staging three.txt
+staging three.txt new
 
